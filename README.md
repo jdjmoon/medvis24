@@ -5,7 +5,7 @@
 - 이건 두번째
 - 이건 세번째
 
-  '''python
+  ```python
   import json
   js = json.load(open('abc.json'))
-  '''
+  ```
